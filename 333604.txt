@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jabadabadooo
+=======
+plik z głównego folderu ponownie
+>>>>>>> 2996fa9 (Powodowanie błędu przy użyciu rebase)
