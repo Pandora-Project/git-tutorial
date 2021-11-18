@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
-AAA konflikt
-=======
-specjalne tworzenie konfliktu bla bla
->>>>>>> parent of ee46631 (Update 333604.txt)
+amend showcase
