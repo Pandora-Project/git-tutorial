@@ -1,0 +1,1 @@
+jest to nowy plik, który zaraz usuniemy :)
